@@ -1,5 +1,4 @@
 # Logs
-src/components/Hero.jsx
 logs
 *.log
 npm-debug.log*

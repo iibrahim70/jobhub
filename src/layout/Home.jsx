@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 
 const Home = () => {
   return (
-    <main className="w-[90%] md:w-[85%] lg:w-[80%] mx-auto">
+    <main>
       <Navbar />
       <Hero />
     </main>
