@@ -11,7 +11,7 @@ const Opportunities = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
         {opportunitiesData.map((item) => (
           <div key={item.id}>
-            <div className="shadow-xl rounded-md p-5 space-y-2">
+            <div className="shadow-xl rounded-md p-5 space-y-2 flex items-center justify-center flex-col">
               <img src={item?.logo} alt={item?.companyName} className="h-10" />
               <h3 className="font-semibold">{item?.companyName}</h3>
               <p>{item?.salary}</p>
