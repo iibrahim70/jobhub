@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <nav className="bg-gray-200">
+    <nav className="bg-gray-100">
       <div className="section-width flex justify-between py-5">
         <h2 className="text-xl font-bold  text-dark">JobHub</h2>
 
