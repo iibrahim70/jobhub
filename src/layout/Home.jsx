@@ -1,3 +1,4 @@
+import Category from "../components/Category";
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
 import Opportunities from "../components/Opportunities";
@@ -8,6 +9,7 @@ const Home = () => {
       <Navbar />
       <Hero />
       <Opportunities />
+      <Category />
     </main>
   );
 };

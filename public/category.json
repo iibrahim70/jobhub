@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "categoryName": "Software Development",
+    "openPositions": 10,
+    "logo": "https://i.pinimg.com/originals/06/bc/e8/06bce81285badba0c3becd273ca67f95.png"
+  },
+  {
+    "id": 2,
+    "categoryName": "Data Science",
+    "openPositions": 8,
+    "logo": "https://png.pngtree.com/png-vector/20190621/ourmid/pngtree-datasciencedata-sciencedollar-blue-dotted-line-line-icon-png-image_1489517.jpg"
+  },
+  {
+    "id": 3,
+    "categoryName": "Finance",
+    "openPositions": 5,
+    "logo": "https://static.vecteezy.com/system/resources/previews/000/609/739/original/finance-logo-and-symbols-vector-concept-illustration.jpg"
+  },
+  {
+    "id": 4,
+    "categoryName": "Marketing",
+    "openPositions": 7,
+    "logo": "https://png.pngtree.com/template/20191014/ourmid/pngtree-finance-trade-market-logo-design-template-with-arrow-image_318277.jpg"
+  },
+  {
+    "id": 5,
+    "categoryName": "Healthcare",
+    "openPositions": 12,
+    "logo": "https://static.vecteezy.com/system/resources/previews/013/187/643/original/creative-human-medical-healthcare-logo-design-illustration-icon-concept-vector.jpg"
+  },
+  {
+    "id": 6,
+    "categoryName": "Design",
+    "openPositions": 6,
+    "logo": "https://img.freepik.com/premium-vector/simple-ws-initials-logo_640251-224.jpg"
+  }
+]
