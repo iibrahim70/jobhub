@@ -12,7 +12,7 @@ const Opportunities = () => {
         {opportunitiesData.map((item) => (
           <div key={item.id}>
             <div className="shadow-xl rounded-md p-5 space-y-2">
-              <img src={item?.logo} alt={item?.companyName} className="h-20" />
+              <img src={item?.logo} alt={item?.companyName} className="h-10" />
               <h3 className="font-semibold">{item?.companyName}</h3>
               <p>{item?.salary}</p>
               <p className="flex items-center gap-2">
