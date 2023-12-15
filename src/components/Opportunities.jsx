@@ -1,5 +1,5 @@
 import { FaMapMarkerAlt } from "react-icons/fa";
-import opportunitiesData from "../../public/opportunities.json";
+import opportunitiesData from "../assets/opportunities.json";
 
 const Opportunities = () => {
   return (

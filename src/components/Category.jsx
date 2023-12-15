@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import categoryData from "../../public/category.json";
+import categoryData from "../assets/category.json";
 
 const Category = () => {
   return (

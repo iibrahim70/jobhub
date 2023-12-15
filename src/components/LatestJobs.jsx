@@ -1,4 +1,4 @@
-import opportunitiesData from "../../public/opportunities.json";
+import opportunitiesData from "../assets/opportunities.json";
 
 const LatestJobs = () => {
   return (
@@ -17,7 +17,7 @@ const LatestJobs = () => {
       {/* details */}
       {opportunitiesData.map((item) => (
         <div key={item.id}>
-          <div className="flex items-center justify-between border-b-2 p-5 space-y-2">
+          <div className="flex items-center justify-between border-b-2 py-5 space-y-2">
             {/* left column */}
             <div className="flex items-center w-1/3">
               <img

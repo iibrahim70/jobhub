@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "companyName": "Tech Innovators",
+    "logo": "https://images-platform.99static.com//dm5hU5nQdAAQ0y52BUlhAeJKJPQ=/186x167:1078x1060/fit-in/500x500/99designs-contests-attachments/92/92021/attachment_92021711",
+    "position": "Software Engineer",
+    "location": "San Francisco, CA",
+    "salary": "$90,000 - $120,000"
+  },
+  {
+    "id": 2,
+    "companyName": "Global Solutions Corp",
+    "logo": "https://www.guerra-creativa.com/img/uploads/designs/580x362/t7ow0o90.png",
+    "position": "Data Analyst",
+    "location": "New York, NY",
+    "salary": "$80,000 - $100,000"
+  },
+  {
+    "id": 3,
+    "companyName": "EcoTech Solutions",
+    "logo": "https://pbs.twimg.com/profile_images/1301834460753616902/hfb_wCMU_400x400.jpg",
+    "position": "Environmental Scientist",
+    "location": "Seattle, WA",
+    "salary": "$70,000 - $90,000"
+  },
+  {
+    "id": 4,
+    "companyName": "Financial Wizards Inc",
+    "logo": "https://i.ytimg.com/vi/0KCKKh60kDk/maxresdefault.jpg",
+    "position": "Financial Analyst",
+    "location": "Chicago, IL",
+    "salary": "$85,000 - $110,000"
+  },
+  {
+    "id": 5,
+    "companyName": "HealthCare Innovations",
+    "logo": "https://img.freepik.com/free-vector/healcare-logo-icon_125964-475.jpg?size=338&ext=jpg&ga=GA1.1.44546679.1699228800&semt=ais",
+    "position": "Medical Researcher",
+    "location": "Boston, MA",
+    "salary": "$75,000 - $95,000"
+  },
+  {
+    "id": 6,
+    "companyName": "Design Studio Co",
+    "logo": "https://content.wepik.com/statics/27190242/preview-page0.jpg",
+    "position": "UX/UI Designer",
+    "location": "Los Angeles, CA",
+    "salary": "$80,000 - $110,000"
+  },
+  {
+    "id": 7,
+    "companyName": "Renewable Energy Solutions",
+    "logo": "https://dcassetcdn.com/design_img/2224841/82383/82383_11729099_2224841_ba180afe_image.png",
+    "position": "Renewable Energy Engineer",
+    "location": "Denver, CO",
+    "salary": "$90,000 - $120,000"
+  },
+  {
+    "id": 8,
+    "companyName": "Data Insights Group",
+    "logo": "https://media.licdn.com/dms/image/C4D0BAQEn2nhBco3kig/company-logo_200_200/0/1676874030200/writingservice_in_logo?e=2147483647&v=beta&t=ElCCtqaRg7pn-aBiVnsckPjIiQcGxMP9lZX0nDU_WNE",
+    "position": "Data Scientist",
+    "location": "Austin, TX",
+    "salary": "$100,000 - $130,000"
+  },
+  {
+    "id": 9,
+    "companyName": "SmartTech Innovations",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyQx9xvKFAxF56GAtUke12JVnsrZbAcmGQ4VGgOr_eyIh3Bw3-SC68oOZiWoVboAPccLo&usqp=CAU",
+    "position": "IoT Developer",
+    "location": "San Jose, CA",
+    "salary": "$95,000 - $120,000"
+  },
+  {
+    "id": 10,
+    "companyName": "Space Exploration Co",
+    "logo": "https://st3.depositphotos.com/4216129/17793/v/450/depositphotos_177930502-stock-illustration-astronauts-protective-helmet-logo-space.jpg",
+    "position": "Aerospace Engineer",
+    "location": "Houston, TX",
+    "salary": "$110,000 - $140,000"
+  }
+]
