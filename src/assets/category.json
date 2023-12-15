@@ -1,38 +1,122 @@
 [
   {
     "id": 1,
-    "categoryName": "Software Development",
-    "openPositions": 10,
+    "categoryName": "Software Development/Programming",
+    "openPositions": 20,
     "logo": "https://i.pinimg.com/originals/06/bc/e8/06bce81285badba0c3becd273ca67f95.png"
   },
   {
     "id": 2,
-    "categoryName": "Data Science",
-    "openPositions": 8,
+    "categoryName": "Data Science/Analytics",
+    "openPositions": 20,
     "logo": "https://png.pngtree.com/png-vector/20190621/ourmid/pngtree-datasciencedata-sciencedollar-blue-dotted-line-line-icon-png-image_1489517.jpg"
   },
   {
     "id": 3,
-    "categoryName": "Finance",
-    "openPositions": 5,
+    "categoryName": "Finance/Accounting",
+    "openPositions": 20,
     "logo": "https://static.vecteezy.com/system/resources/previews/000/609/739/original/finance-logo-and-symbols-vector-concept-illustration.jpg"
   },
   {
     "id": 4,
-    "categoryName": "Marketing",
-    "openPositions": 7,
+    "categoryName": "Marketing/Advertising",
+    "openPositions": 20,
     "logo": "https://png.pngtree.com/template/20191014/ourmid/pngtree-finance-trade-market-logo-design-template-with-arrow-image_318277.jpg"
   },
   {
     "id": 5,
-    "categoryName": "Healthcare",
-    "openPositions": 12,
+    "categoryName": "Healthcare/Medical",
+    "openPositions": 20,
     "logo": "https://static.vecteezy.com/system/resources/previews/013/187/643/original/creative-human-medical-healthcare-logo-design-illustration-icon-concept-vector.jpg"
   },
   {
     "id": 6,
-    "categoryName": "Design",
-    "openPositions": 6,
+    "categoryName": "Design/Graphics",
+    "openPositions": 20,
     "logo": "https://img.freepik.com/premium-vector/simple-ws-initials-logo_640251-224.jpg"
+  },
+  {
+    "id": 7,
+    "categoryName": "Engineering/Technology",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/engineering-logo-flat-design_73903-129.jpg"
+  },
+  {
+    "id": 8,
+    "categoryName": "Education/Training",
+    "openPositions": 20,
+    "logo": "https://img.freepik.com/free-vector/education-logo-design_1438-1.jpg"
+  },
+  {
+    "id": 9,
+    "categoryName": "Human Resources/HR",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/human-resources-logo_1413-124.jpg"
+  },
+  {
+    "id": 10,
+    "categoryName": "Sales/Business Development",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/sales-logo_1329-80.jpg"
+  },
+  {
+    "id": 11,
+    "categoryName": "Legal/Compliance",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/legal-law-logo-design_213316-108.jpg"
+  },
+  {
+    "id": 12,
+    "categoryName": "Customer Support/Service",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/customer-support-logo_23-2147509338.jpg"
+  },
+  {
+    "id": 13,
+    "categoryName": "Supply Chain/Logistics",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/supply-chain-logistic-logo-design-template_62512-72.jpg"
+  },
+  {
+    "id": 14,
+    "categoryName": "Manufacturing/Production",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/manufacturing-factory-logo-design_28465-143.jpg"
+  },
+  {
+    "id": 15,
+    "categoryName": "Research and Development/R&D",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/research-development-logo-design-template_1441-62.jpg"
+  },
+  {
+    "id": 16,
+    "categoryName": "Real Estate/Property",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/real-estate-logo_23-2147509308.jpg"
+  },
+  {
+    "id": 17,
+    "categoryName": "Construction/Building",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/construction-company-logo_23-2147506520.jpg"
+  },
+  {
+    "id": 18,
+    "categoryName": "Telecommunications/Telecom",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/telecommunication-company-logo_23-2147506538.jpg"
+  },
+  {
+    "id": 19,
+    "categoryName": "Hospitality/Travel",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/hotel-logo_1299-78.jpg"
+  },
+  {
+    "id": 20,
+    "categoryName": "Transportation/Logistics",
+    "openPositions": 20,
+    "logo": "https://image.freepik.com/free-vector/transportation-company-logo_23-2147506713.jpg"
   }
 ]
