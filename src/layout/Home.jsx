@@ -1,4 +1,5 @@
 import Category from "../components/Category";
+import Footer from "../components/Footer";
 import Hero from "../components/Hero";
 import LatestJobs from "../components/LatestJobs";
 import Navbar from "../components/Navbar";
@@ -12,6 +13,7 @@ const Home = () => {
       <Opportunities />
       <Category />
       <LatestJobs />
+      <Footer />
     </main>
   );
 };

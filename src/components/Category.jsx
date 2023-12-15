@@ -9,7 +9,7 @@ const Category = () => {
       </h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
-        {categoryData.map((item) => (
+        {categoryData.slice(0, 6).map((item) => (
           <div key={item.id}>
             <div
               className={clsx(
