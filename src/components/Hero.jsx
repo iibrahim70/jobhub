@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section className="bg-gray-100">
       <div className="section-width flex items-center justify-between flex-col lg:flex-row min-h-[calc(100vh-68px)] gap-10 py-10 lg:py-0">
-        {/* right side */}
+        {/* left side */}
         <div className="flex-1 space-y-5">
           <h1 className="text-4xl md:text-6xl font-bold text-dark">
             Unlock Your Career Potential
@@ -32,7 +32,7 @@ const Hero = () => {
           </p>
         </div>
 
-        {/* left side */}
+        {/* right side */}
         <div className="flex-1">
           <Lottie animationData={animation} loop={true} />
         </div>
