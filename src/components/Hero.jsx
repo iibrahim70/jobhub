@@ -1,5 +1,6 @@
 import Lottie from "lottie-react";
 import animation from "../assets/animation.json";
+import Button from "./Button";
 
 const Hero = () => {
   return (
@@ -16,9 +17,11 @@ const Hero = () => {
             <input
               type="text"
               placeholder="Job Title, Keywords or Company name"
-              className="w-full rounded-full px-5 py-3"
+              className="w-full rounded-full px-5 py-3 focus:outline-none"
             />
-            <button className="absolute right-5">Search</button>
+            <div className="absolute right-5">
+              <Button size="small">Search</Button>
+            </div>
           </div>
 
           <p>
