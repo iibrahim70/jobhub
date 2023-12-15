@@ -9,7 +9,7 @@ const Opportunities = () => {
       </h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
-        {opportunitiesData.map((item) => (
+        {opportunitiesData.slice(0, 6).map((item) => (
           <div key={item.id}>
             <div className="shadow-xl rounded-md px-10 py-5 space-y-2 flex-col">
               <img src={item?.logo} alt={item?.companyName} className="h-10" />

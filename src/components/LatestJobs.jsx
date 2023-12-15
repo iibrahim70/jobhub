@@ -1,3 +1,4 @@
+import clsx from "clsx";
 import opportunitiesData from "../assets/opportunities.json";
 
 const LatestJobs = () => {
@@ -9,7 +10,7 @@ const LatestJobs = () => {
 
         <div className="flex justify-between gap-5">
           <p>Hot Jobs</p>
-          <p>Popular Jobs</p>
+          <p className="text-blue-500 font-semibold">Popular Jobs</p>
           <p>Recent Jobs</p>
         </div>
       </div>
@@ -17,7 +18,12 @@ const LatestJobs = () => {
       {/* details */}
       {opportunitiesData.map((item) => (
         <div key={item.id}>
-          <div className="flex items-center justify-between border-b-2 py-5 space-y-2">
+          <div
+            className={clsx(
+              "flex items-center justify-between border-b-2 py-5",
+              item.id === 1 ? "border-t-2" : ""
+            )}
+          >
             {/* left column */}
             <div className="flex items-center w-1/3">
               <img
@@ -33,7 +39,7 @@ const LatestJobs = () => {
 
             {/* middle column */}
             <div className="flex items-center justify-center w-1/3">
-              <p>{item?.salary}</p>
+              <p>{item?.workTime}</p>
             </div>
 
             {/* right column */}
@@ -43,6 +49,22 @@ const LatestJobs = () => {
           </div>
         </div>
       ))}
+
+      <div className="pt-5 flex justify-between">
+        <p>
+          Showing <span className="text-blue-500 font-semibold">15</span> of{" "}
+          <span className="text-blue-500 font-semibold">1250</span> latest jobs
+        </p>
+
+        <div className="flex justify-between gap-5">
+          <p className="text-blue-500 font-semibold">1</p>
+          <p>2</p>
+          <p>3</p>
+          <p>4</p>
+          <p>...</p>
+          <p>50</p>
+        </div>
+      </div>
     </section>
   );
 };
