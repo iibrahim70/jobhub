@@ -1,3 +1,5 @@
+import Button from "./Button";
+
 const Navbar = () => {
   return (
     <nav className="bg-gray-100">
@@ -6,7 +8,9 @@ const Navbar = () => {
 
         <div className="flex justify-between gap-5">
           <button>Join Now</button>
-          <button>Sign In</button>
+          <Button colors="transparent" size="small">
+            Sign In
+          </Button>
         </div>
       </div>
     </nav>
