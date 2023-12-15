@@ -17,7 +17,7 @@ const Hero = () => {
             <input
               type="text"
               placeholder="Job Title, Keywords or Company name"
-              className="w-full rounded-full px-5 py-3 focus:outline-none"
+              className="w-full rounded-full px-5 py-3 focus:outline-none shadow-md"
             />
             <div className="absolute right-5">
               <Button size="small">Search</Button>
