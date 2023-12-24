@@ -5,7 +5,6 @@ import Hero from "../components/Hero";
 import Opportunities from "../components/Opportunities";
 import Category from "../components/Category";
 import LatestJobs from "../components/LatestJobs";
-import Promotional from "../components/Promotional";
 import Review from "../components/Review";
 import Footer from "../components/Footer";
 
@@ -28,7 +27,6 @@ const Home = () => {
       <Opportunities />
       <Category />
       <LatestJobs />
-      <Promotional />
       <Review />
       <Footer />
     </main>
